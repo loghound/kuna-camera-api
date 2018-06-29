@@ -1,4 +1,4 @@
-# Kuna API
+# Kuna camera web API
 
 
 This is my attempt to document the KUNA api in the hopes that I can do a little more automation.   
