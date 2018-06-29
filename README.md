@@ -30,7 +30,7 @@ If you visit https://server.kunasystems.com/api/v1/user/cameras/  when logged in
 
 Sadly there is no obvious way to 'set' parameters -- a try to POST or PUT returns a 'page not found'
 
-so there you have it -- I hope someone can edit this and add more details of how to set things (such as alerts on/off and what not'
+so there you have it -- I hope someone can edit this and add more details of how to set things (such as alerts on/off and what not)
 
 
 
